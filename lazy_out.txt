@@ -1,0 +1,3 @@
+[parent] до fork             RSS=205736 kB  Pss=200217 kB  Shared_Dirty=0 kB  Private_Dirty=199104 kB
+[child]  сразу после fork    RSS=202984 kB  Pss=100384 kB  Shared_Dirty=198700 kB  Private_Dirty=408 kB
+[child]  после изменения     RSS=203464 kB  Pss=198608 kB  Shared_Dirty=2688 kB  Private_Dirty=196420 kB

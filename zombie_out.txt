@@ -1,0 +1,7 @@
+[parent] pid=15080, ребёнок pid=15082. wait() НЕ вызываю
+[child]  pid=15082 завершаюсь сразу
+--- ps: ребёнок должен быть зомби (Z) ---
+    PID    PPID STAT CMD
+  15082   15080 Z+   [python3] <defunct>
+--- после waitpid ---
+    PID    PPID STAT CMD

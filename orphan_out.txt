@@ -1,0 +1,8 @@
+[parent] pid=15226, ребёнок=15228. Родитель завершается[child]  pid=15228, ppid до: 15226
+
+[child]  ppid после: 11974
+    PID    PPID STAT CMD
+  11974   11973 S    /init
+--- PID 1 в этой системе ---
+    PID CMD
+      1 /sbin/init
